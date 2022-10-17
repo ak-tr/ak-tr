@@ -4,7 +4,7 @@
 
 
 ### A little bit about me  
-I am currently working as a Backend developer learning to build, integrate and consume a wide range of API technologies. However, I try to dive into anything tech-related, not just backend.
+I am currently working as a Backend developer learning to build, integrate and consume a wide range of APIs using an array of technologies. However, I try to dive into anything tech-related, not just backend.
 
 I enjoy learning new technologies by implementing them into small yet sophisticated projects as I believe that is the most effective method of learning.  
   
