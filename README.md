@@ -11,7 +11,7 @@
   .:'  MMMMM88&&&&
 .:'   .:'MMM8&&&'
 :'  .:'
-'::'    ak-tr
+'::'    ak-tr                  muhl.is / linkedin.muhl.is / github.muhl.is
 ```
 
 <div align="center">
