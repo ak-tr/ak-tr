@@ -1,4 +1,4 @@
-![akif](https://user-images.githubusercontent.com/62529128/201243055-c392f629-543b-4419-9212-f9c4a130b452.gif)
+[![akif](akif.png)](https://muhl.is)
 
 
 ```
