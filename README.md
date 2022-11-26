@@ -12,7 +12,7 @@
   .:'  MMMMM88&&&&
 .:'   .:'MMM8&&&'
 :'  .:'
-'::'    ak-tr                  muhl.is / linkedin.muhl.is / github.muhl.is
+'::'    ak-tr                  akif.kr / linkedin.akif.kr / git.akif.kr
 ```
 
 <div align="center">
