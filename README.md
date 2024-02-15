@@ -1,11 +1,11 @@
 ```
-                       .::.    Currently working as a Backend Developer using Node.js and TypeScript
-                  .:'  .:      to build integrate and consume a wide range of APIs using an array
-        ,MMM8&&&.:'   .:'      of technologies. Albeit, in my spare time, I try to dive into 
-       MMMMM88&&&&  .:'        anything tech-related, not just backend. I enjoy learning 
-      MMMMM88&&&&&&:'          new technologies by implementing them into small yet  
-      MMMMM88&&&&&&            sophisticated projects as I believe that is the 
-    .:MMMMM88&&&&&&            most effective method of learning.
+                       .::.    
+                  .:'  .:      
+        ,MMM8&&&.:'   .:'      
+       MMMMM88&&&&  .:'        
+      MMMMM88&&&&&&:'          
+      MMMMM88&&&&&&            
+    .:MMMMM88&&&&&&            
   .:'  MMMMM88&&&&
 .:'   .:'MMM8&&&'
 :'  .:'
